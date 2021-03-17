@@ -1,4 +1,11 @@
-# WordCloudApp
+# React & Firebase 로 만드는 Word Cloud Web&App
+# Using React, Flask and Firebase
+# Currently working on connecting to AWS EC2 and find some errors of flask web server
+
+
+* firebase hosting server : https://word-cloud-1e33e.firebaseapp.com/#/
+* used tools : Vscode, Pycharm, Firebase
+
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73155839/111411155-67310800-871d-11eb-8667-83678a404025.png" width="40%" height="30%">
