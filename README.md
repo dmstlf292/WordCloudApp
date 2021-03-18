@@ -6,7 +6,8 @@
 
 # Currently working on connecting to AWS EC2 and find some errors of flask web server
 
-# 개발환경 : Vscode, Pycharm, Firebase, AWS(예정), MACOS
+# 개발환경 및 언어 
+* JavaScript, React,Node.js & Vscode, Pycharm, Firebase, AWS(예정), MACOS
 
 # 기능소개
 * 단어추가 및 각 단어에 추가하고 싶은 가중치 숫자 입력하기
