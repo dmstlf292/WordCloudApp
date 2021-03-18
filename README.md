@@ -2,6 +2,7 @@
 
 * Using React, Flask and Firebase
 * firebase hosting server : https://word-cloud-1e33e.firebaseapp.com/#/
+* python : https://github.com/dmstlf292/WordCloud.Python
 
 # Currently working on connecting to AWS EC2 and find some errors of flask web server
 
